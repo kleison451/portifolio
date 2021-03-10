@@ -4,3 +4,5 @@ Este é o meu primeiro projeto.
 Estou programando um website responsivo, com HTML, CSS e JavaScript, 
 que irá servir como meu portifólio pois será onde vou expor todos 
 os meus futuros projetos.
+## Tarefas
+O controle das tarefas desse projeto será realizado no Github.
