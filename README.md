@@ -1,2 +1,6 @@
-# portifolio
-meu portifólio
+# portifólio
+Este é o meu primeiro projeto.
+## Apresentação
+Estou programando um website responsivo, com HTML, CSS e JavaScript, 
+que irá servir como meu portifólio pois será onde vou expor todos 
+os meus futuros projetos.
